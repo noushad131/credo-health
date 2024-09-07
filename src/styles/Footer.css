@@ -1,0 +1,17 @@
+footer {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  .social-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  .social-links li a {
+    color: white;
+    text-decoration: none;
+  }
+  
